@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "grade_calculator"
+  ],
+  "packages": [
+    {
+      "name": "grade_calculator",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
