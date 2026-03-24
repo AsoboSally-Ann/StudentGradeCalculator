@@ -1,11 +1,11 @@
 {
   "roots": [
-    "grade_calculator"
+    "calculator"
   ],
   "packages": [
     {
-      "name": "grade_calculator",
-      "version": "1.0.0",
+      "name": "calculator",
+      "version": "0.0.0",
       "dependencies": [],
       "devDependencies": []
     }
